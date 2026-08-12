@@ -1,0 +1,6 @@
+const menu=document.querySelector('.menu'),nav=document.querySelector('#main-nav');
+menu?.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open));});
+document.querySelectorAll('[data-filter]').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(b=>b.classList.remove('active'));btn.classList.add('active');document.querySelectorAll('.setting-grid article').forEach(card=>card.classList.toggle('hide',btn.dataset.filter!=='all'&&card.dataset.cat!==btn.dataset.filter));}));
+document.querySelector('form')?.addEventListener('submit',e=>{e.preventDefault();document.querySelector('.form-status').textContent='Thank you. Your message is ready for the Host Desk.';e.target.reset();});
+const consent=document.querySelector('.consent');if(localStorage.getItem('tep-consent'))consent?.classList.add('hidden');
+document.querySelectorAll('[data-consent]').forEach(btn=>btn.addEventListener('click',()=>{const value=btn.dataset.consent==='accept'?'granted':'denied';gtag('consent','update',{analytics_storage:value,ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});localStorage.setItem('tep-consent',value);consent?.classList.add('hidden');}));
