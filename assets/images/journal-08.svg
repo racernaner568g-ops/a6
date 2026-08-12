@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024"><rect width="1536" height="1024" fill="#E2DED2"/><text x="58" y="72" fill="#3B584C" font-family="monospace" font-size="18" letter-spacing="4">TABLE ESSENCE POINT / PLAN</text><text x="58" y="966" fill="#3B584C" font-family="monospace" font-size="24" letter-spacing="2">CENTRE / LOW COMPOSITION</text><rect x="120" y="170" width="1296" height="690" rx="345" fill="#F4ECE0" stroke="#3B584C" stroke-width="10"/><circle cx="380" cy="390" r="80" fill="#C68955" opacity="0.8"/><circle cx="768" cy="510" r="95" fill="#C68955" opacity="0.68"/><circle cx="1150" cy="390" r="110" fill="#C68955" opacity="0.56"/><path d="M270 670 Q500 430 730 670 T1190 670" fill="none" stroke="#3B584C" stroke-width="30"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+<title id="t">08 / KEEP THE CENTRE LOW</title><desc id="d">Original angular dinner-table editorial collage.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111428"/><stop offset="1" stop-color="#090A12"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="150%" height="150%"><feDropShadow dx="16" dy="18" stdDeviation="7" flood-color="#000" flood-opacity=".32"/></filter>
+</defs><rect width="1600" height="1000" fill="url(#g)"/><rect width="1600" height="1000" fill="url(#grid)"/>
+<text x="62" y="68" fill="#F4EEDF" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">TABLE ESSENCE POINT</text>
+<rect x="62" y="91" width="86" height="8" fill="#8FE3C2"/><rect x="120" y="600" width="1360" height="140" fill="#F4EEDF"/><path d="M220 600Q300 420 380 600M410 600Q515 340 620 600M675 600Q790 455 905 600M930 600Q1070 320 1210 600M1190 600Q1300 430 1405 600" fill="none" stroke="#8FE3C2" stroke-width="24"/>
+<path d="M400 590L250 395M610 585L740 345M980 585L850 420M1190 585L1340 390" stroke="#8FE3C2" stroke-width="17"/><rect x="90" y="285" width="1420" height="8" fill="#FF675C"/><text x="800" y="255" fill="#FF675C" font-family="Arial" font-size="25" font-weight="900" text-anchor="middle">SIGHTLINE STAYS OPEN</text><rect x="62" y="884" width="1476" height="72" fill="#F4EEDF"/>
+<text x="90" y="930" fill="#090A12" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="3">08 / KEEP THE CENTRE LOW</text>
+<rect x="1470" y="884" width="68" height="72" fill="#8FE3C2"/></svg>

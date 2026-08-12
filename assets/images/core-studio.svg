@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024"><rect width="1536" height="1024" fill="#E7DDCF"/><text x="58" y="72" fill="#523750" font-family="monospace" font-size="18" letter-spacing="4">TABLE ESSENCE POINT / PLAN</text><text x="58" y="966" fill="#523750" font-family="monospace" font-size="24" letter-spacing="2">TABLE STUDIO / MATERIAL BOARD</text><rect x="120" y="170" width="580" height="650" fill="#F5EEE3" stroke="#523750" stroke-width="9"/><rect x="770" y="170" width="645" height="270" fill="#A7A66B" opacity=".78"/><rect x="770" y="490" width="645" height="330" fill="#A35D70" opacity=".72"/><path d="M185 260 H625 M185 380 H570 M185 500 H650 M185 620 H520" stroke="#523750" stroke-width="10"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+<title id="t">THE KITCHEN PASS / PREP NOTES</title><desc id="d">Original angular dinner-table editorial collage.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111428"/><stop offset="1" stop-color="#090A12"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="150%" height="150%"><feDropShadow dx="16" dy="18" stdDeviation="7" flood-color="#000" flood-opacity=".32"/></filter>
+</defs><rect width="1600" height="1000" fill="url(#g)"/><rect width="1600" height="1000" fill="url(#grid)"/>
+<text x="62" y="68" fill="#F4EEDF" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">TABLE ESSENCE POINT</text>
+<rect x="62" y="91" width="86" height="8" fill="#F4F04B"/><rect x="110" y="165" width="1380" height="570" fill="#F4EEDF"/>
+<rect x="110" y="165" width="1380" height="80" fill="#F4F04B"/><text x="150" y="220" fill="#090A12" font-family="Arial" font-size="34" font-weight="900" letter-spacing="5">TONIGHT'S PASS</text>
+<path d="M170 305H1430M170 640H1430" stroke="#090A12" stroke-width="10"/>
+<g transform="rotate(-4 350 445)"><rect x="205" y="290" width="300" height="320" fill="#FF675C"/><text x="240" y="360" font-family="Arial" font-size="24" font-weight="800">COUNT / 06</text><path d="M250 420H455M250 465H420M250 510H465" stroke="#090A12" stroke-width="9"/></g>
+<g transform="rotate(3 705 445)"><rect x="555" y="290" width="300" height="320" fill="#8FE3C2"/><text x="590" y="360" font-family="Arial" font-size="24" font-weight="800">PREP / 70%</text><path d="M600 420H805M600 465H770M600 510H815" stroke="#090A12" stroke-width="9"/></g>
+<g transform="rotate(-2 1060 445)"><rect x="905" y="290" width="310" height="320" fill="#BDA9FF"/><text x="940" y="360" font-family="Arial" font-size="24" font-weight="800">LIGHT / LOW</text><path d="M950 420H1160M950 465H1125M950 510H1170" stroke="#090A12" stroke-width="9"/></g>
+<rect x="1260" y="290" width="170" height="320" fill="#090A12"/><text x="1345" y="565" fill="#F4F04B" text-anchor="middle" font-family="Arial" font-size="72" font-weight="900" transform="rotate(-90 1345 565)">READY</text><rect x="62" y="884" width="1476" height="72" fill="#F4EEDF"/>
+<text x="90" y="930" fill="#090A12" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="3">THE KITCHEN PASS / PREP NOTES</text>
+<rect x="1470" y="884" width="68" height="72" fill="#F4F04B"/></svg>
